@@ -4,7 +4,7 @@ I am a prospective graduate in Electrical and Communications Engineering. My pri
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rajindu%20Yasojith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajindu/](https://www.linkedin.com/in/rajindu/))](https://www.linkedin.com/in/rajindu/)
 <img src="https://tryhackme-badges.s3.amazonaws.com/RajindU.png" alt="TryHackMe">
-
+<script src="https://tryhackme.com/badge/2001634"></script>
 ## Skilled in
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
