@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="vEWtFg2XUgF3P6c3zfNG5y1pm3l7z6BjgbW5ro11k24" />
+<meta name="google-site-verification" content="9cv719ypZSmGxsQXW0IKkoPK7jaPWrC-C6iSrOJPbQs" />
 ### Greetings, fellow wanderer!  👋
 
 I am a prospective graduate in Electrical and Communications Engineering. My primary focus centers around Cybersecurity, specifically engaging in network security and penetration testing tasks. 
