@@ -2,11 +2,11 @@
 
 I am a recent graduate in Electrical and Communications Engineering. My primary focus centers around IT security, specifically engaging in network security and penetration testing challanges. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rajindu%20Yasojith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajindu/](https://www.linkedin.com/in/rajindu/))](https://www.linkedin.com/in/rajindu/){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-Rajindu%20Yasojith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajindu/](https://www.linkedin.com/in/rajindu/))](https://www.linkedin.com/in/rajindu/) {:target="_blank"}
 
 Explore my TryHackMe profile for thrilling cybersecurity adventures!
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/RajindU.png" alt="TryHackMe" width="200">](https://tryhackme.com/p/RajindU){:target="_blank"}
+[<img src="https://tryhackme-badges.s3.amazonaws.com/RajindU.png" alt="TryHackMe" width="200">](https://tryhackme.com/p/RajindU) {:target="_blank"}
 
 ## Skilled in
 
