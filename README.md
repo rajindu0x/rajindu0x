@@ -5,6 +5,7 @@ I am a recent graduate in Electrical and Communications Engineering. My primary 
 [![Linkedin Badge](https://img.shields.io/badge/-Rajindu%20Yasojith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajindu/](https://www.linkedin.com/in/rajindu/))](https://www.linkedin.com/in/rajindu/)
 
 Explore my TryHackMe profile for thrilling cybersecurity adventures!
+
 [<img src="https://tryhackme-badges.s3.amazonaws.com/RajindU.png" alt="TryHackMe" width="200">](https://tryhackme.com/p/RajindU)
 
 ## Skilled in
