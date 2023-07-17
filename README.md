@@ -1,15 +1,17 @@
-### Greetings, fellow wanderer!  👋
+### Welcome, fearless voyager!👋
 
-I am a prospective graduate in Electrical and Communications Engineering. My primary focus centers around Cybersecurity, specifically engaging in network security and penetration testing tasks. 
+I am a recent graduate in Electrical and Communications Engineering. My primary focus centers around IT security, specifically engaging in network security and penetration testing challanges. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rajindu%20Yasojith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajindu/](https://www.linkedin.com/in/rajindu/))](https://www.linkedin.com/in/rajindu/)
 
+Explore my TryHackMe profile for thrilling cybersecurity adventures!
 [<img src="https://tryhackme-badges.s3.amazonaws.com/RajindU.png" alt="TryHackMe" width="200">](https://tryhackme.com/p/RajindU)
-
-
 
 ## Skilled in
 
+[![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white)](https://www.kali.org/)
+[![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-purple?style=flat-square&logo=C%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
