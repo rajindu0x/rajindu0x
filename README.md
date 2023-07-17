@@ -3,6 +3,7 @@
 I am a prospective graduate in Electrical and Communications Engineering. My primary focus centers around Cybersecurity, specifically engaging in network security and penetration testing tasks. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rajindu%20Yasojith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajindu/](https://www.linkedin.com/in/rajindu/))](https://www.linkedin.com/in/rajindu/)
+<script src="https://tryhackme.com/badge/2001634"></script>
 
 ## Languages
 
