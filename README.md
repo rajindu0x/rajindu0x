@@ -1,6 +1,6 @@
 ### Welcome, fearless voyager!👋
 
-I am a recent graduate in Electrical and Communications Engineering. My primary focus centers around IT security, specifically engaging in network security and penetration testing challanges. 
+I am a recent graduate in Electrical and Communications Engineering. My primary focus centers around Legacy Networking, Cloud & Security, specifically engaging in network security and penetration testing challanges. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rajindu%20Yasojith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajindu/](https://www.linkedin.com/in/rajindu/))](https://www.linkedin.com/in/rajindu/)
 
