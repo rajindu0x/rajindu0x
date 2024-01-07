@@ -22,7 +22,7 @@ Explore my TryHackMe profile for thrilling cybersecurity adventures!
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rajinduyasojith&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajinduyasojith&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rajindu0x&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajindu0x&hide=TeX&layout=compact)
 
 
