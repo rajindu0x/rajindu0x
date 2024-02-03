@@ -1,7 +1,7 @@
 ### Welcome, fearless voyager!👋
 
-I am a recent graduate in Electrical and Communications Engineering. My primary focus centers on InfoSec. I am Engaging in network security and Capture the Flag(CTF) challanges. Visit my webiste to follow up more!
-Site: www.rajindu.com
+I am a graduate in Electrical and Communications Engineering. My primary focus centers around InfoSec specifically on web/mobile applications and network penetration testing. I always engage in Capture the Flag(CTF) challanges. Visit my webiste to follow up more!
+Site: www.rajindu.com 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rajindu%20Yasojith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajindu/](https://www.linkedin.com/in/rajindu/))](https://www.linkedin.com/in/rajindu/)
 
