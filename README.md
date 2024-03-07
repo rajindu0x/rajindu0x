@@ -18,14 +18,30 @@ Explore my TryHackMe profile for thrilling cybersecurity adventures!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
 ![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-0a3d62?style=flat-square)
 ![Autopsy](https://img.shields.io/badge/-Autopsy-2980b9?style=flat-square&logo=autopsy)
 ![The Sleuth Kit](https://img.shields.io/badge/-The%20Sleuth%20Kit-27ae60?style=flat-square&logo=thesleuthkit)
 ![Volatility](https://img.shields.io/badge/-Volatility-2c3e50?style=flat-square&logo=volatility)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-3498db?style=flat-square&logo=wireshark)
 ![Forensic Toolkit (FTK)](https://img.shields.io/badge/-FTK-d35400?style=flat-square&logo=forensictoolkit)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Malware Analysis & Threat Hunting](https://img.shields.io/badge/-Malware%20Analysis-9b59b6?style=flat-square)
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-3498db?style=flat-square&logo=ida)
+![Cuckoo Sandbox](https://img.shields.io/badge/-Cuckoo%20Sandbox-e74c3c?style=flat-square&logo=cuckoo)
+![YARA](https://img.shields.io/badge/-YARA-27ae60?style=flat-square&logo=yara)
+![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-3498db?style=flat-square&logo=elastic)
+![Splunk](https://img.shields.io/badge/-Splunk-2980b9?style=flat-square&logo=splunk)
+
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-8e44ad?style=flat-square)
+![Nmap](https://img.shields.io/badge/-Nmap-3498db?style=flat-square&logo=nmap)
+![Metasploit](https://img.shields.io/badge/-Metasploit-e74c3c?style=flat-square&logo=metasploit)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-27ae60?style=flat-square&logo=burpsuite)
+![SQLMap](https://img.shields.io/badge/-SQLMap-2ecc71?style=flat-square&logo=sqlmap)
+![NetDiscovery](https://img.shields.io/badge/-NetDiscovery-9b59b6?style=flat-square&logo=netdiscovery)
+![JWT Tool](https://img.shields.io/badge/-JWT%20Tool-16a085?style=flat-square&logo=jsonwebtokens)
+![Nuclei](https://img.shields.io/badge/-Nuclei-2980b9?style=flat-square&logo=nuclei)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rajindu0x&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajindu0x&hide=TeX&layout=compact)
