@@ -7,7 +7,7 @@ Site: www.rajindu.com
 
 Explore my TryHackMe profile for thrilling cybersecurity adventures!
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/RajindU.png" alt="TryHackMe" width="200">](https://tryhackme.com/p/rajindu0x)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/rajindu0x.png" alt="TryHackMe" width="200">](https://tryhackme.com/p/rajindu0x)
 ## Skilled in
 
 [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white)](https://www.kali.org/)
