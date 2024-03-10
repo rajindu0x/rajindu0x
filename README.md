@@ -1,7 +1,7 @@
 ### Welcome, fearless voyager!👋
 
 I am a graduate in Electrical and Telecommunications Engineering. My primary focus centers on InfoSec specifically on web/mobile applications, infrastructre penetration testing and Digital Forensics. I always engage in Capture the Flag(CTF) challanges.
-Visit my blog to read my latest writeups on Pentesting, DFIR, SOC and Malware reversing. ---> rajindu.com
+[Visit my blog to read my latest writeups on Pentesting, DFIR, SOC and Malware reversing.](https://rajindu.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rajindu%20Yasojith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajindu/](https://www.linkedin.com/in/rajindu/))](https://www.linkedin.com/in/rajindu/)
 
