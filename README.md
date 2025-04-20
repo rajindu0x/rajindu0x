@@ -1,6 +1,8 @@
 ### Welcome, fearless voyager!👋
 
-I am an IT professional with an extensive experience on Microsft 365, Azure, Windows Active Directory, Web and AD Penetration testing . My primary focus centers on Offensive security specifically on applications security, and Infrastructire security. [Visit my blog](https://rajindu0x.github.io/) to read my latest write-ups on pentesting and digital forensics.
+I am an IT professional with an extensive experience on Microsft 365, Azure, Windows Active Directory, Web and AD Penetration testing . My primary focus centers on Infrastructre architecting, configurations and security. 
+
+[Visit my blog](https://rajindu0x.github.io/) to read my latest write-ups on pentesting and digital forensics.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rajindu%20Yasojith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajindu/](https://www.linkedin.com/in/rajindu/))](https://www.linkedin.com/in/rajindu/)
 
