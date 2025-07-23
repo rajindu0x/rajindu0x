@@ -1,6 +1,6 @@
 ### Welcome, fearless voyager!👋
 
-I am an IT professional with an extensive experience on Microsft 365, Azure, Automations and Windows Active Directory, Web and AD Penetration testing . My primary focus centers on Infrastructre solutions architecting, configurations and security. 
+I am an IT professional with an extensive experience on Microsft 365, Azure, Automations, Windows Active Directory, Web and AD Penetration testing . My primary focus centers on Infrastructre solutions architecting, configurations, security and workflow automations. 
 
 [View my portfolio](https://www.rajindu.com)
 
